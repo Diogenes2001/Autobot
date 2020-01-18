@@ -5,7 +5,7 @@ This was built as a proof of concept for the Intact Datathon 2019, so currently 
 
 To run the model:
 
-Make sure you have pip installed, then run
+Unzip the files in the `data` folder and place them in the main directory. Make sure you have pip installed, then run
 
 `pip install tensorflow`
 
