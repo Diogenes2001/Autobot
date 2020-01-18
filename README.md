@@ -19,3 +19,5 @@ in the terminal. To see the model predict the 3 types of auto insurance payouts,
 
 To run the UI:
 Run the `autobot` executable.
+
+Devpost: https://devpost.com/software/autobot
